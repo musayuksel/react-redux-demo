@@ -171,6 +171,16 @@ const thunkExample = (dispatch, getState) => {
 
 ---
 
+### Useful things
+- Install Redux dev tools
+  - [chromium](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+  - [Firefox / Gecko](https://addons.mozilla.org/en-GB/firefox/addon/reduxdevtools/)
+
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
+- [react-redux](https://react-redux.js.org/introduction/getting-started)
+- [more about redux pattens](https://redux.js.org/tutorials/fundamentals/part-7-standard-patterns)
+
+---
 ### Challenge
 
 Clone this repo and try to create your own thunk, either expand the user object or if you feel up to it create your own reducer as well!
