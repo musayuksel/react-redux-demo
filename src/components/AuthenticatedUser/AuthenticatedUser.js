@@ -13,6 +13,8 @@ export const AuthenticatedUser = () => {
   // useDispatch is a hook that allows us to dispatch actions to the redux store
   const dispatch = useDispatch();
 
+  // [REDUX HOOK]
+  // [REDUX ACTION]
   const handleLogout = () => {
     dispatch(clearUser());
   };

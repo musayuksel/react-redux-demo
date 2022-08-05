@@ -9,6 +9,7 @@ export const UnAuthenticatedUser = () => {
   const dispatch = useDispatch();
 
   // [REDUX HOOK]
+  // [REDUX ACTION]
   // create a handler that will dispatch the setUser action
   const handleLogin = () => {
     dispatch(setUser({
